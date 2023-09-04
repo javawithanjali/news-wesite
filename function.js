@@ -123,24 +123,24 @@ Ireland which is led by Andrew Balbirnie with talented players like Harry Tector
     
 ];
 
-    img=["photos/archives_1-sixteen_nine_1-sixteen_nine-_3.avif","photos/Prime-Minister-Narendra-Modi--File-photo-_1692366936293.avif","photos/kohli-says-news-on-social-media-earnings-not-true-after-hopper-hq-releases-list-of-highest-instagram-120559-16x9_1.avif",
+    img=["image/photos/archives_1-sixteen_nine_1-sixteen_nine-_3.avif","photos/Prime-Minister-Narendra-Modi--File-photo-_1692366936293.avif","photos/kohli-says-news-on-social-media-earnings-not-true-after-hopper-hq-releases-list-of-highest-instagram-120559-16x9_1.avif",
 
     
-"photos/WhatsApp Image 2023-08-17 at 1.40.19 PM.jpeg",
-"photos/2023-07-26-twt-sustainable-development-goals.jpg",
+"image/photos/WhatsApp Image 2023-08-17 at 1.40.19 PM.jpeg",
+"image/photos/2023-07-26-twt-sustainable-development-goals.jpg",
 "photos/image1.avif",
 
-"photos/h_1692365565723_1692365578309.avif",
-"photos/Michigan_house_1692356357807_1692356396464.avif",
-"photos/META-PLATFORMS-CANADA--0_1692359010755_1692359038299.avif",
+"image/photos/h_1692365565723_1692365578309.avif",
+"image/photos/Michigan_house_1692356357807_1692356396464.avif",
+"image/photos/META-PLATFORMS-CANADA--0_1692359010755_1692359038299.avif",
 
-"photos/Geekdom_Matthew-Espinoza-startup-bootcamps_8-2023.webp",
-"photos/Image-from-iOS-1.webp",
-"photos/Brenda-Bazan-san-antonio-cooking-chef-kirk-6.webp",
+"image/photos/Geekdom_Matthew-Espinoza-startup-bootcamps_8-2023.webp",
+"image/photos/Image-from-iOS-1.webp",
+"image/photos/Brenda-Bazan-san-antonio-cooking-chef-kirk-6.webp",
 
-"photos/James-2.avif",
-"photos/Prag-5.avif",
-"photos/WhatsApp-Image-2023-08-18-at-12.50.41-PM.avif"
+"image/photos/James-2.avif",
+"image/photos/Prag-5.avif",
+"imagephotos/WhatsApp-Image-2023-08-18-at-12.50.41-PM.avif"
 ];
 
     do{
